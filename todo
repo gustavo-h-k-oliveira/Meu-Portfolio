@@ -1,0 +1,10 @@
+# To-Do List
+
+* [ ] Planejamento do projeto + Setup inicial da estrutura front-end e back-end.
+* [ ] Configuração de rotas com React Router.
+* [ ] Seções da Home: Sobre Mim, Habilidades e Contatos.
+* [ ] Criar a API RESTful com dados mockados.
+* [ ] Componente "Projetos em Destaque" + Página que consome a API.
+* [ ] Página com dados individuais + Framer Motion para transições.
+* [ ] Download de currículo em PDF, responsividade e modo escuro.
+* [ ] Publicação no GitHub + Deploy + Documentação no README.
